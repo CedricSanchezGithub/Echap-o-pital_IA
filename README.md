@@ -65,3 +65,4 @@ Le module ne stocke aucune donnée personnelle.
 Le fichier state.json simule un apprentissage local.
 Aucune dépendance externe (pas d’API GPT, pas de connexion Internet requise).
 Peut être hébergé sur le même poste que le backend ou en microservice indépendant.# Echap-o-pital_IA
+# Echap-o-pital_IA
