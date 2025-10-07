@@ -5,7 +5,7 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1
 
 
-WORKDIR /app
+WORKDIR .
 
 # Install system dependencies
 RUN apt-get update -y && apt-get install -y --no-install-recommends \
